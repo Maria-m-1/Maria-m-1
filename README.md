@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maria-m-1
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning basic cryptography
+- 👀 I’m interested in a data engineering careeer
+- 🌱 I’m currently learning basic cryptography as a hobby
 - 📫 How to reach me - email
 - 😄 Pronouns: she/her
 
